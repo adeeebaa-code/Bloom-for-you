@@ -1,0 +1,22 @@
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: #ffe9fb;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+main {
+  margin-top: 40px;
+}
+#canvas-container {
+  display: inline-block;
+  margin-bottom: 10px;
+  border-radius: 16px;
+  box-shadow: 0 2px 20px #e4b3d8;
+}
+#message {
+  font-size: 1.2em;
+  color: #d15ca6;
+  font-weight: bold;
+  margin-top: 12px;
+}
